@@ -9,3 +9,5 @@ This file will contain the HTML markup for our web app.
 
 ## 3. Within `github-api` directory, add file `app.js`
 This file will contain the code we just wrote. We will tweak it along the way to get it to display the requested data on the webpage.
+
+## Take a look: [https://nhthai2005.github.io/github-api/](https://nhthai2005.github.io/github-api/)
